@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## React-Mobx-Boilerplate
 
 #### This project is made of React + Mobx + customize-cra + scss.
+#### You can easily set react + mobx project by using this boilerplate
 
 ### 1. clone this project.
 
