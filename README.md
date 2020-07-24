@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### This project is made of React + Mobx + customize-cra + scss.
 #### You can easily set react + mobx project by using this boilerplate
+##### "react": "^16.13.x", "mobx": "5.15.x", "mobx-react": "^6.2.2"
+##### can change settings in config-overrides 
 
 ### 1. clone this project.
 
